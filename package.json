@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ThamyrisCabralArraes/primeiras-impressoes-typescript/issues"
   },
-  "homepage": "https://github.com/ThamyrisCabralArraes/primeiras-impressoes-typescript#readme"
+  "homepage": "https://github.com/ThamyrisCabralArraes/primeiras-impressoes-typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
 }
